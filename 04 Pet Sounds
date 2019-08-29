@@ -15,7 +15,7 @@ let animalNoises = [
       'Albania' : 'Ham!',
       'Algeria' : 'Ouaf ouaf!'
       }
-    },
+  },
   { 
     'cat': {
       'America' : 'Meow',
